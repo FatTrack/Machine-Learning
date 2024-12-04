@@ -16,26 +16,57 @@ Proudly presented by Capstone Team
 ## Introduction
 Penjelasan singkat tentang proyek ini...
 
+
+
+
 ## Features
 Daftar fitur utama...
+
+
+
 
 ## Components
 Komponen yang digunakan dalam proyek ini...
 
+
+
+
+
 ## Installation
 Langkah-langkah instalasi...
+
+
+
+
 
 ## Dataset
 Deskripsi dataset...
 
+
+
+
 ## Workflow
 Langkah-langkah kerja untuk menjalankan proyek...
+
+
+
+
 
 ## Results
 Hasil yang dicapai dari proyek...
 
+
+
+
+
+
+
 ## Contributors
 Nama-nama kontributor proyek ini...
+
+
+
+
 
 ## License
 Lisensi proyek ini...
