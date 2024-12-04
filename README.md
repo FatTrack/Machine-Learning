@@ -8,7 +8,7 @@ Proudly presented by Capstone Team
 5. [Dataset](#dataset)
 6. [Workflow](#workflow)
 7. [Results](#results)
-8. [Contributors Machine Learning Path](#contributorsMachineLearningPath)
+8. [Contributors - Machine Learning Path](#contributors-machine-learning-path)
 
 
 ## Introduction Project
@@ -65,7 +65,7 @@ Hasil yang dicapai dari proyek...
 
 
 
-## Contributors Machine Learning Path
+## Contributors - Machine Learning Path
 1. Ahmad Ferdiansyah (M211B4KY0204) - Universitas Indraprasta PGRI
 2. Arif Adrian (M319B4KY0637) - Universitas Sumatera Utara
 3. Ikko Cahya Awinata (M284B4KX1925) - Universitas Negeri Surabaya
