@@ -4,11 +4,12 @@ Proudly presented by Capstone Team
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Components](#components)
-3. [Installation](#installation)
-4. [Dataset](#dataset)
-5. [Workflow](#workflow)
-6. [Results](#results)
-7. [Contributors](#contributors)
+3. [Requirements](#Requirements)
+4. [Installation](#installation)
+5. [Dataset](#dataset)
+6. [Workflow](#workflow)
+7. [Results](#results)
+8. [Contributors](#contributors)
 9. [License](#license)
 
 
@@ -36,12 +37,12 @@ Fat Track (Food Analysis Tool for Tracking Calories and Carbohydrates) is a mobi
 
 
 ## Requirements
-tensorflow==2.16.1
-keras==3.3.3
-matplotlib==3.7.5
-numpy==1.26.4
-pandas==2.2.3  
-scikit-learn==1.2.2
+- tensorflow==2.16.1
+- keras==3.3.3
+- matplotlib==3.7.5
+- numpy==1.26.4
+- pandas==2.2.3  
+- scikit-learn==1.2.2
 
 
 
