@@ -65,8 +65,10 @@ Hasil yang dicapai dari proyek...
 
 
 
-## Contributors
-Nama-nama kontributor proyek ini...
+## Contributors Machine Learning Path
+1. Ahmad Ferdiansyah (M211B4KY0204) - Universitas Indraprasta PGRI
+2. Arif Adrian (M319B4KY0637) - Universitas Sumatera Utara
+3. Ikko Cahya Awinata (M284B4KX1925) - Universitas Negeri Surabaya
 
 
 
