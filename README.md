@@ -5,12 +5,10 @@ Proudly presented by Capstone Team
 1. [Introduction](#introduction)
 2. [Components](#components)
 3. [Requirements](#Requirements)
-4. [Installation](#installation)
 5. [Dataset](#dataset)
 6. [Workflow](#workflow)
 7. [Results](#results)
 8. [Contributors](#contributors)
-9. [License](#license)
 
 
 ## Introduction Project
@@ -45,14 +43,6 @@ Fat Track (Food Analysis Tool for Tracking Calories and Carbohydrates) is a mobi
 - scikit-learn==1.2.2
 
 
-
-## Installation
-Langkah-langkah instalasi...
-
-
-
-
-
 ## Dataset
 Deskripsi dataset...
 
@@ -80,7 +70,3 @@ Nama-nama kontributor proyek ini...
 
 
 
-
-
-## License
-Lisensi proyek ini...
