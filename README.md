@@ -13,8 +13,8 @@ Proudly presented by Capstone Team
 9. [License](#license)
 
 
-## Introduction
-Penjelasan singkat tentang proyek ini...
+## Introduction Project
+Fat Track (Food Analysis Tool for Tracking Calories and Carbohydrates)
 
 
 
