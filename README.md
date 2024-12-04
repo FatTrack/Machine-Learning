@@ -7,15 +7,12 @@ Proudly presented by Capstone Team
 3. [Requirements](#Requirements)
 5. [Dataset](#dataset)
 6. [Workflow](#workflow)
-7. [Results](#results)
-8. [Contributors](#contributor)
+7. [Contributors](#contributor)
+
 
 
 ## Introduction Project
 Fat Track (Food Analysis Tool for Tracking Calories and Carbohydrates) is a mobile application designed to help users track their calorie and nutrient intake by analyzing food images. With the help of AI and image processing technology, users can take pictures of their meals and instantly receive nutritional information such as calorie counts. The app aims to promote healthier eating habits, raise awareness about balanced nutrition, and improve overall well-being, particularly in Indonesia, where awareness of proper nutrition is often limited.
-
-
-
 
 
 ## Components
@@ -35,16 +32,17 @@ Fat Track (Food Analysis Tool for Tracking Calories and Carbohydrates) is a mobi
 
 
 ## Requirements
-- tensorflow==2.16.1
-- keras==3.3.3
-- matplotlib==3.7.5
-- numpy==1.26.4
-- pandas==2.2.3  
-- scikit-learn==1.2.2
+| Library             | Version    |
+|---------------------|------------|
+| tensorflow          | 2.16.1     |
+| keras               | 3.3.3      |
+| matplotlib          | 3.7.5      |
+| numpy               | 1.26.4     |
+| pandas              | 2.2.3      |
+| scikit-learn        | 1.2.2      |
 
 
 ## Dataset
-####Data set used
 File Dataset = https://drive.google.com/file/d/1B311xmZPac-LeUwJwfn-qODAzAbdSLAS/view?usp=drive_link
 
 
@@ -55,21 +53,11 @@ Langkah-langkah kerja untuk menjalankan proyek...
 
 
 
-
-
-## Results
-Hasil yang dicapai dari proyek...
-
-
-
-
-
-
-
 ## Contributor
-1. Ahmad Ferdiansyah (M211B4KY0204) - Universitas Indraprasta PGRI
-2. Arif Adrian (M319B4KY0637) - Universitas Sumatera Utara
-3. Ikko Cahya Awinata (M284B4KX1925) - Universitas Negeri Surabaya
-
+| Name                       | Bangkit ID        | University                                |
+|----------------------------|-------------------|-------------------------------------------|
+| Ahmad Ferdiansyah           | M211B4KY0204      | Universitas Indraprasta PGRI              |
+| Arif Adrian                 | M319B4KY0637      | Universitas Sumatera Utara                |
+| Ikko Cahya Awinata          | M284B4KX1925      | Universitas Negeri Surabaya               |
 
 
