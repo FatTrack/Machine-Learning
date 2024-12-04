@@ -20,19 +20,18 @@ Fat Track (Food Analysis Tool for Tracking Calories and Carbohydrates) is a mobi
 
 
 ## Components
-*Image Pre-processing
-Image Augmentation
-Early Stopping
-Callbacks
-Model Checkpoint
-Convolutional Neural Network (CNN)
-Transfer Learning
-DenseNet121
-InceptionV3
-ResNet152V2
-Model Evaluate
-Accuracy and Loss Graph
-
+- Image Pre-processing
+- Image Augmentation
+- Early Stopping
+- Callbacks
+- Model Checkpoint
+- Convolutional Neural Network (CNN)
+- Transfer Learning
+  - DenseNet121
+  - InceptionV3
+  - ResNet152V2
+- Model Evaluation
+- Accuracy and Loss Graph
 
 
 
