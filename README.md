@@ -8,7 +8,7 @@ Proudly presented by Capstone Team
 5. [Dataset](#dataset)
 6. [Workflow](#workflow)
 7. [Results](#results)
-8. [Contributors - Machine Learning Path](#contributors-machine-learning-path)
+8. [Contributors - Machine Learning Path](#Contributors - Machine Learning Path)
 
 
 ## Introduction Project
