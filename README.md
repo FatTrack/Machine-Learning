@@ -3,13 +3,12 @@ Proudly presented by Capstone Team
 
 # Table of Contents
 1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Components](#components)
-4. [Installation](#installation)
-5. [Dataset](#dataset)
-6. [Workflow](#workflow)
-7. [Results](#results)
-8. [Contributors](#contributors)
+2. [Components](#components)
+3. [Installation](#installation)
+4. [Dataset](#dataset)
+5. [Workflow](#workflow)
+6. [Results](#results)
+7. [Contributors](#contributors)
 9. [License](#license)
 
 
@@ -19,14 +18,20 @@ Fat Track (Food Analysis Tool for Tracking Calories and Carbohydrates) is a mobi
 
 
 
-## Features
-Daftar fitur utama...
-
-
-
 
 ## Components
-Komponen yang digunakan dalam proyek ini...
+*Image Pre-processing
+Image Augmentation
+Early Stopping
+Callbacks
+Model Checkpoint
+Convolutional Neural Network (CNN)
+Transfer Learning
+DenseNet121
+InceptionV3
+ResNet152V2
+Model Evaluate
+Accuracy and Loss Graph
 
 
 
