@@ -48,8 +48,8 @@ Theme : Healthcare
 File Dataset = https://drive.google.com/file/d/1B311xmZPac-LeUwJwfn-qODAzAbdSLAS/view?usp=drive_link
 
 <div align="center">
-  <img src="https://github.com/FatTrack/Machine-Learning/blob/main/preview.png" alt="Preview Dataset FatTrack" style="width: 20%;">
-  <p></p>
+  <img src="https://github.com/FatTrack/Machine-Learning/blob/main/preview.png" alt="Preview Dataset FatTrack" style="width: 100%;">
+  <p>Preview Dataset FatTrack</p>
 </div>
 
 
