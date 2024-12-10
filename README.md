@@ -4,7 +4,7 @@ Proudly presented by Capstone Team
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Components](#components)
-3. [Requirements](#Requirements)
+3. [Requirements](#requirements)
 5. [Dataset](#dataset)
 6. [Workflow](#workflow)
 7. [Contributors](#contributor)
@@ -25,9 +25,7 @@ Theme : Healthcare
 - Model Checkpoint
 - Convolutional Neural Network (CNN)
 - Transfer Learning
-  - DenseNet121
-  - InceptionV3
-  - ResNet152V2
+  - MobileNetV2
 - Model Evaluation
 - Accuracy and Loss Graph
 
@@ -57,10 +55,12 @@ File Dataset = https://drive.google.com/file/d/1B311xmZPac-LeUwJwfn-qODAzAbdSLAS
 ### 1. Download Images Using Bing Image Downloader
    - Use **Bing Image Downloader** to download images of food based on categories (e.g., satay, rendang, nasi goreng).
    - The images will be saved in a structured folder according to the food category.
+   - in this case we use kaggle to save our dataset
 
 ### 2. Open the .ipynb File in Google Colab or Jupyter Notebook
    - Open the `.ipynb` file in **Google Colab** or **Jupyter Notebook**.
    - Select **File > Save a copy in Drive** to save a copy of the file to your Google Drive account. This allows you to edit and run the notebook in Google Colab.
+   -  Use **!kaggle** to download images of food from the prepared dataset that already Uploaded in Kaggle.
 
 ### 3. Preprocessing Data
    - Preprocess the downloaded images:
@@ -69,32 +69,36 @@ File Dataset = https://drive.google.com/file/d/1B311xmZPac-LeUwJwfn-qODAzAbdSLAS
      - **Normalization**: Scale the image pixels to the range [0, 1].
      - **Augmentation**: Apply image augmentation techniques such as rotation, flipping, zooming, etc.
 
-### 4. Model Building: Baseline Model (CNN)
-   - Build a basic CNN model first as a baseline before moving on to more complex models.
-
-### 5. Transfer Learning Models
+### 4. Model Building with transfer learning
    - Implement transfer learning using pre-trained models:
-     - **DenseNet121**
-     - **InceptionV3**
-     - **ResNet152V2**
-   - Add custom layers if necessary to adapt the model to your dataset.
+   -  **MobileNetV2** as our choosen pre-trained model
+   - Add our own custom layers.
 
-### 6. Training the Model
+### 5. Training the Model
+   - Train the model using the preprocessed data.
+   - Use **Early Stopping** to halt training if no improvement is seen.
+   - Save the best model using **Model Checkpoint**.
+   
+### 6. Fine Tune the model
+   - After Implement the transfer learning using pre-trained models MobilenetV2
+   - Freeze more layers until we get what we want.
+
+### 7. Training the fine tuned Model
    - Train the model using the preprocessed data.
    - Use **Early Stopping** to halt training if no improvement is seen.
    - Save the best model using **Model Checkpoint**.
 
-### 7. Run Every Cell in the .ipynb File
+### 8. Run Every Cell in the .ipynb File
    - Run each cell in the `.ipynb` file to train the model and produce the desired outputs.
    - Ensure that the process runs without errors and the model is trained correctly.
 
-### 8. Model Evaluation
+### 9. Model Evaluation
    - Evaluate the model using relevant metrics such as:
      - Accuracy, Precision, Recall, and F1-Score.
      - Visualize accuracy and loss graphs during training.
 
-### 9. Download the Model .h5 File
-   - After training, **download the .h5 model file** by clicking on the `.h5` file in the Colab directory.
+### 10. Download the Model .h5 or .Keras File
+   - After training, **download the .h5 or .Keras model file** by clicking on the `.h5` or `.Keras` file in the Colab directory.
    - The model file is automatically saved to the `/content/` directory in Google Colab via **Model Checkpoint**.
 
 
